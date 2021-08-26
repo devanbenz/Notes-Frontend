@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.note {
+    color: grey;
+    padding-top: 1%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+.button-small {
+    font-size: 75%;
+    border: 3px;
+    border-color: black;
+}
